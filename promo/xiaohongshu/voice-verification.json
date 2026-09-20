@@ -1,0 +1,91 @@
+{
+  "result": "PASS",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "textChanged": "Punctuation only; words and existing subtitles unchanged",
+  "videoPacketsUnchanged": true,
+  "videoPresentationTimesUnchanged": true,
+  "videoPacketCount": 1515,
+  "videoSHA256": "3961c7b492992f96dbfbf0fb57021b5efa527beee6c3ca83d5805e8ba8fd71de",
+  "decodedAudio": {
+    "sampleRate": 24000,
+    "duration": 53.09866666666667,
+    "peak": 0.7986641526222229,
+    "rms": 0.10201658991639141
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -6,
+      "text": "我把求婚，藏进了一款小游戏。",
+      "duration": 3.36,
+      "sceneDuration": 5.2
+    },
+    {
+      "id": "start",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -6,
+      "text": "一开始，它只是一次普通的四季探险。",
+      "duration": 4.008,
+      "sceneDuration": 5.5
+    },
+    {
+      "id": "seasons",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -6,
+      "text": "从春日花园，到夏日池畔，再走进秋天和冬天。",
+      "duration": 5.328,
+      "sceneDuration": 8.0
+    },
+    {
+      "id": "walk",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -6,
+      "text": "沿着小路，捡起钥匙。走错了，就慢慢回来。",
+      "duration": 5.424,
+      "sceneDuration": 6.5
+    },
+    {
+      "id": "lookback",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -6,
+      "text": "直到最后，回头看刚刚走过的路。",
+      "duration": 3.792,
+      "sceneDuration": 5.2
+    },
+    {
+      "id": "love",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -12,
+      "text": "原来，每一步都在写——我爱你。",
+      "duration": 3.816,
+      "sceneDuration": 5.5
+    },
+    {
+      "id": "proposal",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -12,
+      "text": "你愿意嫁给我吗？",
+      "duration": 2.112,
+      "sceneDuration": 5.0
+    },
+    {
+      "id": "success",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -3,
+      "text": "愿意之后，还有我们的照片墙。故事，未完待续。",
+      "duration": 5.448,
+      "sceneDuration": 6.0
+    },
+    {
+      "id": "close",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": -6,
+      "text": "四季小径，把喜欢做成可以亲手走完的礼物。",
+      "duration": 4.776,
+      "sceneDuration": 6.0
+    }
+  ],
+  "original": "source/previous/intro-system-voice.mp4",
+  "listeningReview": "Not human-auditioned; naturalness remains subjective"
+}

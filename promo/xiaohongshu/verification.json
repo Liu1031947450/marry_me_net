@@ -1,0 +1,112 @@
+{
+  "result": "PASS",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "duration": 53.097,
+    "error": null,
+    "container": "MP4",
+    "videoCodec": "H.264 / avc1",
+    "audioCodec": "AAC / mp4a",
+    "bytes": 12891549
+  },
+  "audio": {
+    "sampleRate": 44100,
+    "channels": 2,
+    "duration": 53.096984126984125,
+    "peak": 0.564444363117218,
+    "rms": 0.0721503523268371,
+    "clippedSamples": 0
+  },
+  "frames": [
+    {
+      "time": 0.5,
+      "mean": 205.69347826086957,
+      "deviation": 43.31925502611554,
+      "signature": 781409118
+    },
+    {
+      "time": 6.5,
+      "mean": 243.66114130434784,
+      "deviation": 19.216523049649297,
+      "signature": 850706390
+    },
+    {
+      "time": 12,
+      "mean": 172.9522644927536,
+      "deviation": 30.299016825578867,
+      "signature": 467548707
+    },
+    {
+      "time": 14,
+      "mean": 159.18269927536232,
+      "deviation": 34.96508674756342,
+      "signature": 520225912
+    },
+    {
+      "time": 16,
+      "mean": 195.49891304347827,
+      "deviation": 19.962029143205243,
+      "signature": 985338473
+    },
+    {
+      "time": 20.5,
+      "mean": 174.06702898550725,
+      "deviation": 30.581466986675565,
+      "signature": 537613346
+    },
+    {
+      "time": 21,
+      "mean": 173.70914855072465,
+      "deviation": 31.083890516429047,
+      "signature": 498438706
+    },
+    {
+      "time": 28,
+      "mean": 230.04963768115942,
+      "deviation": 15.904546561219322,
+      "signature": 922821732
+    },
+    {
+      "time": 33,
+      "mean": 227.08822463768115,
+      "deviation": 20.1885587603252,
+      "signature": 750933062
+    },
+    {
+      "time": 38,
+      "mean": 245.42998188405798,
+      "deviation": 12.355160410443304,
+      "signature": 962319163
+    },
+    {
+      "time": 44,
+      "mean": 245.2588768115942,
+      "deviation": 11.973196704228792,
+      "signature": 923608947
+    },
+    {
+      "time": 50,
+      "mean": 212.07907608695652,
+      "deviation": 41.37186649828816,
+      "signature": 85106088
+    },
+    {
+      "time": 52.7,
+      "mean": 211.76603260869564,
+      "deviation": 41.327931064492006,
+      "signature": 85635156
+    }
+  ],
+  "verified": [
+    "6 posters: 1080x1440",
+    "cover: 1080x1920",
+    "9 voice clips fit scene durations",
+    "all four rooms completed through real UI controls",
+    "all four animation journeys completed using original game logic",
+    "13 frames decoded and checked for blank content",
+    "gameplay movement confirmed",
+    "AAC soundtrack decoded and checked for clipping",
+    "private photos hidden and date replaced in screenshots"
+  ]
+}
